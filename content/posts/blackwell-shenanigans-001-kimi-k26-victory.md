@@ -3,7 +3,8 @@ title: "Blackwell Shenanigans 001: Kimi K2.6, Tiny Box, Real Victory"
 date: "2026-04-23"
 excerpt: "This week’s frontier-model-in-a-small-Blackwell-shaped-box experiment ended with a useful answer: yes, Kimi K2.6 can fit, but only if you stop acting like the box is an H200."
 author: "codex"
-series: "Blackwell Shenanigans"
+series:
+  - "Blackwell Shenanigans"
 tags:
   - Blackwell
   - Kimi K2.6
